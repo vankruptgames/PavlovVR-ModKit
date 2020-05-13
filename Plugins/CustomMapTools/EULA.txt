@@ -1,0 +1,225 @@
+END USER LICENSE AGREEMENT
+
+Effective as of March 1, 2020.
+
+YOUR ACCESS AND USE OF THE SOFTWARE IS SUBJECT TO AND GOVERNED BY THE FOLLOWING TERMS AND CONDITIONS, TOGETHER WITH ANY DOCUMENTS THEY INCORPORATE BY REFERENCE (COLLECTIVELY, THE "AGREEMENT"). THIS IS A LEGAL AGREEMENT BETWEEN YOU AND VANKRUPT GAMES, INC. AND ITS AFFILIATES (COLLECTIVELY, "VANKRUPT"). PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE. The "Software" includes, without limitation, the "Pavlov VR" client software (the "Game") and all other written, electronic or on-line materials, documentation, tools (e.g. developer tools or map creator tools) and/or products which may be developed, created and released in connection therewith, and any and all copies of such software, materials and products. 
+
+BY OPENING, DOWNLOADING, INSTALLING, AND/OR USING THE SOFTWARE AND ANY OTHER MATERIALS INCLUDED WITH THE SOFTWARE, YOU HEREBY ACCEPT, AND AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THIS AGREEMENT AND ACKNOWLEDGE YOUR UNDERSTANDING OF SUCH TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO ALL TERMS AND CONDITIONS OF THIS AGREEMENT AND THE PRIVACY POLICY, YOU MUST NOT ACCESS OR USE THE SOFTWARE.
+
+SECTION 13 CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER. IT AFFECTS HOW DISPUTES ARE RESOLVED. PLEASE READ IT. 
+
+1. SAFETY, ASSUMPTION OF RISK AND LIMITATION OF LIABILITY - PLEASE READ CAREFULLY!
+
+Limitation on Liability.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS ESSENTIAL PURPOSE, IN NO EVENT SHALL VANKRUPT, ITS LICENSORS, RELATED PARTIES, ADVERTISERS OR SPONSORS, OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, LICENSORS, OR SERVICE PROVIDERS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SOFTWARE, ANY CONTENT ON THE SOFTWARE OR ANY SOFTWARE OR ITEMS OBTAINED THROUGH THE SOFTWARE, INCLUDING ANY (i) DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY OR OTHER DAMAGES, INCLUDING WITHOUT LIMITATION, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE),  (ii) THIRD PARTY CLAIMS, OR (iii) LOSS OR DAMAGE TO ANY SYSTEMS, HARDWARE OR SOFTWARE, RECORDS OR DATA; EVEN IF ADVISED OF OR AWARE OF THE POSSIBILITY OF ANY SUCH DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE ENTIRE LIABILITY OF VANKRUPT ARISING FROM OR IN ANY WAY RELATED TO THE SOFTWARE, THE PACKAGING, OR ANY PART THEREOF, OR THIS AGREEMENT, EXCEED IN THE AGGREGATE THE PURCHASE PRICE OF THE SOFTWARE.
+Assumption of Risk.
+YOU ACKNOWLEDGE THAT YOU ARE VOLUNTARILY PARTICIPATING IN THE USE OF THE SOFTWARE ENTIRELY AT YOUR OWN RISK. YOU ARE AWARE OF THE RISKS ASSOCIATED WITH USING THE SOFTWARE, WHICH MAY INCLUDE, BUT ARE NOT LIMITED TO, PHYSICAL OR PSYCHOLOGICAL INJURY, PAIN, SUFFERING, ILLNESS, TEMPORARY OR PERMANENT DISABILITY (INCLUDING PARALYSIS), ECONOMIC OR EMOTIONAL LOSS, AND DEATH. YOU UNDERSTAND THAT THESE INJURIES OR OUTCOMES MAY ARISE FROM YOUR USE OF THE SOFTWARE, INCLUDING DUE TO YOUR OWN OR OTHER'S NEGLIGENCE. YOU ACKNOWLDGE AND AGREE THAT YOU ARE AWARE OF THE RISKS, DANGERS AND HAZARDS INHERENT IN (OR THAT MAY BE ASSOCIATED WITH) THE USE OF THE SOFTWARE AND/OR VIRTUAL REALITY HEADSETS OR RELATED EQUIPEMNT AND YOU FREELY ACCEPT AND FULLY ASSUME ALL SUCH RISKS, DANGERS AND HAZARDS, WHETHER CAUSED BY YOUR OWN OR OTHER'S NEGLIGENCE, OR WHETHER KNOWN OR UNKNOWN TO YOU, INCLUDING, WITHOUT LIMITATION, THE POSSIBILITY OF PERSONAL INJURY, DEATH, PROPERTY DAMAGE OR LOSS RESULTING THEREFROM. 
+
+AS SUCH, AND WITHOUT LIMITING THE LIMITATION OF LIABILITY PARAGRAPH ABOVE, IN NO EVENT SHALL VANKRUPT, ITS LICENSORS, RELATED PARTIES, ADVERTISERS OR SPONSORS, OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, LICENSORS, OR SERVICE PROVIDERS. BE LIABLE FOR, ANY DAMAGE TO PROPERTY, INJURY OR DEATH (OR FOR DIRECT, INDIRECT, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES) ARISING OUT OF THE USE OR MISUSE OF THE SOFTWARE OR ANY VIRTUAL REALITY HEADSET OR RELATED EQUIPMENT INCLUDING, WITHOUT LIMITATION, ARISING OUT OF OR CONNECTED WITH INTERACTIONS BETWEEN YOU AND OTHER PEOPLE OR OBJECTS IN OR AROUND THE PLAY AREA DURING GAMEPLAY. 
+
+Health and Safety.
+
+To reduce any health and safety risks, you agree that you shall abide by the safety guide or other relevant notices provided by your Virtual Reality hardware manufacturer at all times during your use of the Software. You acknowledge that you have located, read and understood your Virtual Reality hardware manufacturer's guidelines and that any failure to adhere to any such guidelines or precautions may cause damage to property, personal injury to you or others, or death. 
+
+While using the Software, you will be moving your head, limbs and other body parts, which could cause serious injury or death to you, people near you, or property. While wearing your Virtual Reality headset and using the Software, you will not be able to see anything in the physical room around you. As such, at all times you are using the Software and Virtual Reality hardware, including any hand controllers, you acknowledge and agree that it is your sole responsibility (i) to clear your physical play area of people, pets, and all objects that you could potential strike, contact or otherwise become entangled with, (ii) to always be aware of such area and your surroundings, including of all persons, pets and/or objects around you, and (iii) to use all Virtual Reality hardware in accordance with your Virtual Reality hardware manufacturer's guidelines. You agree to only use the Software and the Virtual Reality hardware in a safe environment (e.g. away from any stairways, windows, balconies, walls, furniture, objects that may be tripping hazards or heat sources). 
+
+It is strongly recommended that you use the Software only under the supervision of another person who may provide warning to you of any safety hazards that may arise, or that you may approach, while using the Software. YOU ACKNOWLEDGE AND AGREE THAT YOU WILL NOT RELY ON ANY MECHANISM IN THE SOFTWARE FOR PROTECTION.
+
+YOU ACKNOWLEDGE THAT USING THE SOFTWARE WITH YOUR VIRTUAL REALITY HARDWARE MAY INVOLVE A TEST OF YOUR PHYSICAL AND MENTAL LIMITS AND MAY CARRY WITH IT THE POTENTIAL FOR DAMAGE OR LOSS TO PROPERTY, PERSONAL INJURY TO YOU, OR DEATH. The risks of using the Software may include, but are not limited to, those caused by loss of balance, caused by inability to see physical surroundings, caused by inability to hear sounds in physical surrounds, caused by any part of your body hitting or otherwise contacting people or objects in the physical surroundings, caused by repetitive or strenuous motion of any part of your body, caused by involuntary motion or action of any part of your body, caused by stress to your eyesight or hearing from frequent or prolonged use. If you are pregnant or if you have any pre-existing medical condition, you should take with a physician to obtain professional advice before using the Software. You should not play the game under the influence of alcohol or drugs or while using prescription or non-prescription medication.
+For some individuals, sequences of images which may be displayed by the Software on the Virtual Reality headset screen, including but not limited to images of rapidly flashing lights, could induce epileptic seizures, loss of consciousness, altered vision, motion sickness, dizziness, disorientation or nausea, repetitive motion injuries and eye strain. Immediately stop playing if you do not feel well or if you experience any of the above symptoms.
+
+In any event, it is highly recommended you take a break from the Software, including the Game, every ten (10) to fifteen (15) minute break.
+
+You may feel overwhelmed by the immersive nature of the software, and you may experience intense physical and psychological sensations during or after its use. You acknowledge that you are capable of removing your Virtual Reality headset at any time during the use of the Software in order to cease experiencing the Software, to check your location within your physical surroundings, to provide yourself with adequate rest and recovery, or for any other reason to ensure your mental and/or physical comfort and safety. Do not use the Software for too long at any one time. You agree that if you choose to use the Software, you will avoid such actions at all times, and that it is solely your responsibility to move and act in a safe and controlled manner while using the Software.
+
+YOU HEREBY RELEASE VANKRUPT AND ITS RESPECTIVE OFFICERS, DIRECTORS AND EMPLOYEES FROM ANY AND ALL LIABILITY IN CONNECTION WITH THE USE OF A VIRTUAL REALITY HEADSET, RELATED EQUIPMENT, OR THE SOFTWARE.
+The Software is not intended for use by children (i.e. persons under the age of majority in your jurisdiction). Children may be unable to maintain safe control of their actions if permitted to use the Software. BY USING THE SOFTWARE, YOU REPRESENT AND WARRANT THAT YOU ARE OVER THE AGE OF MAJORITY UNDER YOUR JURISDICTION. If you permit any person under the age of majority in your jurisdiction to use the Software, you do so at your sole risk and liability. Nonetheless, in such event you agree that persons under the age of majority shall be supervised by an adult at all times while using the Software. 
+
+2. CHANGES TO AGREEMENT AND SOFTWARE
+
+Vankrupt may revise and update this Agreement from time to time at its sole discretion. This or any past version of any agreement between you and Vankrupt relating to the subject matter contained herein will terminate immediately upon the introduction of a new version of this AGreement. Please regularly check this Agreement for any new revisions or updates. You will be given an opportunity to review any new version of this Agreement before choosing to accept or reject its terms. If you accept a new version of this Agreement, and your registered Account (as defined below) remains in good standing, you will be able to continue using the Software and be subject to the terms and conditions of the new version. If you decline to accept a new version of this Agreement or cannot comply with its terms, you will no longer be permitted to use the Software or any part thereof.
+
+Vankrupt may change, modify, patch, update, suspend, or discontinue any aspect of the Software at any time, including removing or revising items for any purpose without notice or liability. Vankrupt may also impose limits on certain features or restrict your access to parts or all of the Game without notice or liability.
+
+3. LICENSE 
+
+Subject to your compliance with this Agreement, Vankrupt hereby grants you a non-exclusive, non-transferable, non-sublicensable limited right and license to use one (1) copy of the Software for your personal and non-commercial use on a single home or portable console or computer. As the Software is only being licensed to you, you hereby acknowledge that no title or ownership in the Software is being transferred or assigned to you by Vankrupt and this Agreement shall not be construed as a sale, assignment or transfer of any rights in the Software. All rights not expressly and specifically granted under this Agreement are reserved by Vankrupt.
+
+You acknowledge that Vankrupt may, at its sole discretion, revoke your license to use the Software or any part thereof, including without limitation, the Game, if Vankrupt determines that you have violated, or assisted others in violating, the terms, conditions and limitations set forth in this Agreement.
+
+4. LICENSE CONDITIONS
+
+You agree that you will not, in whole or in part, or under any circumstances, do any of the following, except with the prior written consent of Vankrupt:
+
+(a) Commercially exploit the Software;
+
+(b) Distribute, lease, license, sell, rent or otherwise transfer or assign your right or license to the Software;
+
+(c) Make copies of, reproduce, translate, reverse engineer, derive source code or object code from, modify, disassemble, decompile, or create derivative works based on or related to, the Software, including the Game, except for back up or archival purposes;
+
+(d) Except as otherwise specifically provided by the Software or this Agreement, use or install the Software (or permit others to do same) on a network, for on-line use, or on more than one € computer, computer terminal, console, or workstation at the same time;
+
+(e) Use, copy or exploit the Software at a computer gaming center, commercial establishment or any other location-based site;
+
+(f) Create, use, exploit, offer, advertise, make available and/or distribute the following or assist therein:
+
+(ii) Cheats: i.e. methods, not expressly authorized by Vankrupt, which influence and/or facilitate the gameplay, including exploits of any in-game bugs, and thereby granting you and/or any other user an advantage over other players not using such methods;
+
+(iii) Bots: i.e. any code and/or software, not expressly authorized by Vankrupt, that allows the automated control of the Game and/or any component or feature thereof, e.g. the automated control of a character in the Game;
+
+(iv) Hacks: i.e. accessing or modifying the software of a Game in an manner, not expressly authorized by Vankrupt;
+
+(v) Any code and/or software, not expressly authorized by Vankrupt, that can be used in connection with the Software, including the Game and/or any components or features thereof which changes and/or facilitates the gameplay of the Game;
+
+(vi) Exploit, in their entirety or individual components, the Software including the Game for any purpose not expressly authorized by Vankrupt, including, without limitation (i) gathering in-game currency, items, or resources for sale outside of the Game and any platform on which the Game is distributed (if such features are provided on any such platform by Vankrupt); (ii) performing in-Game services, like rank-leveling, in exchange for payment outside of the Game; or (iii) communicating or facilitating (by text, live audio communications, or otherwise) any commercial advertisement, solicitation or offer through or within the Game;
+
+(vii) Use third party software that intercepts, collects, reads, or "mines" information generated or stored by the Game; provided, however, that Vankrupt may, at its sole and absolute discretion, allow the use of certain third party user interfaces;
+
+(viii) Create, utilize or transact in any in-Game item created or copied by exploiting a design flaw, undocumented problem, or program bug in the Software, including the Game;
+
+(ix) Host, provide, or develop matchmaking services for the Game, or intercept, emulate, or redirect the communication protocols used by Vankrupt in any way, for any purpose, including without limitation, unauthorized play over the Internet, network play (except as expressly authorized by Vankrupt), or as part of content aggregation networks;
+
+(x) Facilitate, create, or maintain any unauthorized connection to the Software, including the Game including without limitation: (i) any connection to any unauthorized server that emulates, or attempts to emulate, the platform on which the Software is distributed; and (ii) any connection using third party programs or tools not expressly authorized by Vankrupt;
+
+(xi) Disrupt or assist in the disruption of: (i) any computer used to support the platform on which Game is distributed or the Game; or (ii) any other player's Game experience; and/or
+
+(xii) Use the Software in any way whatsoever that is illegal or otherwise violates any applicable laws.
+
+You further agree that under no circumstances whatsoever shall you do any of the following in connection with the Software:
+
+(a) Exploit, harm, or attempt to exploit or harm any person in any way, including children by exposing them to inappropriate content, asking for personally identifiable information or otherwise;
+
+(b) Impersonate or attempt to impersonate Vankrupt, a Vankrupt employee, another user, or any other person or entity (including, without limitation, by using e-mail addresses or user names associated with any of the foregoing);
+
+(c) Engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Software, or which, as determined by Vankrupt, may harm Vankrupt or users of the Software or expose them to liability;
+
+(d) Act in any manner that could disable, overburden, damage, or impair the Software or interfere with any other party's use of the Software, including their ability to engage in real time activities through the Software;
+
+(e) Use any robot, spider, or other automatic device, process, or means to access the Software for any purpose, including monitoring or copying any of the material on the Software;
+
+(f) Use any manual process to monitor or copy any of the material on the Software or for any other unauthorized purpose without Vankrupt's prior written consent;
+
+(g) Use any device, software, or routine that interferes with the proper working of the Software;
+
+(h) Remove any, disable or circumvent any security protections or any technical measures that control access to the Software;
+
+(g) Remove or modify any proprietary notices or labels contained on or within the Software;
+
+(i) Introduce any viruses, trojan horses, worms, logic bombs, or other material which is malicious or technologically harmful, or otherwise attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Software, the server on which the Software is stored, or any server, computer, or database connected to the Software;
+
+(j) Attack the Software via a denial-of-service attack or a distributed denial-of-service attack; and/or
+
+(k) Otherwise interfere with or attempt to interfere with the proper working of the Software.
+
+Vankrupt reserves the right to monitor all activities on the Software, including without limitation, and to deny access to anyone, including, without limitation, those users who use proxy servers and/or IP addresses residing in certain geographical areas. VANKRUPT RESERVES THE RIGHT TO SUSPEND OR TERMINATE ANY ACCOUNT AT ANY TIME IN OUR SOLE DISCRETION FOR ANY OR NO REASON, INCLUDING IF, IN OUR SOLE OPINION, YOU HAVE VIOLATED ANY PROVISION OF THIS AGREEMENT.
+
+5. OWNERSHIP, INTELLECTUAL PROPERTY RIGHTS AND INFRINGEMENT
+
+Ownership and Intellectual Property.
+
+Vankrupt retains all right, title and interest in and to the Software, including without limitation, in and to the Game, and all copyrights, trademarks, patents, trade secrets, trade names, proprietary rights, titles, computer and software codes (including without limitation, object code, source code and "applets" incorporated in the Software), features, functionality, audiovisual effects, virtual components, visual components (including without limitation, settings, artwork, locations, structural, architectural or landscape designs and animations), narrations (including without limitation, settings, themes, concepts, stories, storylines, dialogue), characters (including without limitation, names, likenesses, inventories and catch phrases of Game characters), items (including without limitation, virtual goods, custom designs, currency, wearable items), all sounds, musical compositions, recordings, and sound effects originating in the Software, all data and communications generated by, or occurring through, the Software, all recordings, Game replays, or reenactments of in-game matches, battles, rounds, competitions, etc., titles, methods of operation, software, related documentation, and all other original works of authorship contained in the Software, and all moral rights or 'droit moral', each of the foregoing in connection with the Software or any part thereof. The Software is protected by Canadian and United States copyright law and all other applicable copyright laws and treaties throughout the world. 
+
+Unless explicitly permitted in the Software or under this Agreement, you hereby agree that you shall not copy, modify, reproduce, distribute, create derivative works of, publicly display, publicly perform, republish the Software in any manner or medium, whether in whole or in part, without the express prior written consent from Vankrupt. Any persons copying, modifying, reproducing, distributing, creating derivative works of, publicly displaying, publicly performing or republishing all or any portion of the Software in any manner or medium without such prior written consent of Vankrupt, will be willfully violating copyright laws and may be subject to civil and criminal penalties. Be advised that copyright violations might be subject to penalties and Vankrupt reserves the right to seek penalties to the maximum amounts in each jurisdiction. The Software may contain certain licensed materials and Vankrupt's licensors may protect their rights in the event of any violation of this Agreement.
+Vankrupt's names and all related names, logos, product and service names, designs, and slogans are trademarks of Vankrupt or its licensors. You must not use any such content or marks without the prior written permission of Vankrupt. Any use of the Software not expressly permitted by this Agreement is a breach of this Agreement and may violate copyright, trademark, and other laws.
+
+Copyright Infringement
+
+Vankrupt respects the intellectual property rights of others and request that users of the Software respect the intellectual property rights of others as well, including without limitation, in respect of any User Generated Content (as defined below). Vankrupt hereby reserves the right to remove any content that allegedly infringes another party's copyright or other intellectual property rights and reserve the right to suspend or terminate a user's access to and use of the Software if a user is found to be a repeat infringer.
+
+6. GAME MODS, USER CONTRIBUTIONS AND CONDUCT
+
+Vankrupt may at its sole discretion offer and make available for the Software a separate downloadable installer, a level editor or other similar type of tools, assets and/or other materials that permit you the ability to construct or customize new Game levels and other related Game materials (collectively, "Tool Software") for personal use in connection with the Software ("Game Mods"), and/or to upload such Game Mods to the Steam Workshop or your or Vankrupt's servers. The Software may further offer you the ability to display content, post messages, and/or otherwise communicate with other users whether orally or through writing, and engage other interactive features (such as chat functionality, personal web pages, or profiles and forums) that allow users to post, submit, publish, display, or transmit content or materials to other users or third parties ("User Contributions" and collectively with the Game Mods, "User Generated Content"). Any User Generated Content you have created or may create, whether now or in the future, relating to the Software is and will be considered non-confidential and any User Contributions shall be considered non-proprietary. By posting or making available any User Generated Content on or for the Software. or otherwise posting or making available any User Generated Content publicly, you hereby grant Vankrupt and service providers, and each of their and Vankrupt's respective licensees, successors and assigns a perpetual, irrevocable, universal, fully paid up, non-exclusive right and license to exploit the User Generated Content and all elements thereof (whether now existing or hereafter created), in any and all media, formats and forms, known now or hereafter devised, for any purpose whatsoever, including, without limitation, commercial and promotional purposes without compensation or consent. For certainty, all such grantees shall have the unlimited right to copy, reproduce, fix, modify, adapt, translate, reformat, prepare derivatives, add to and delete from, rearrange and transpose, manufacture, publish, distribute, sell, license, sublicense, transfer, rent, lease, transmit, publicly display, publicly perform, provide access to, make derivative works from, broadcast, and practice the User Generated Content, as well as all modified and derivative works thereof and any and all elements contained therein, and use or incorporate a portion or portions of the User Generated Content or the elements thereof in conjunction with or into any other material. Except to the extent that any such waiver is prohibited by law, you hereby waive in favour of Vankrupt the benefit of any provision of law known as "moral rights" or "droit moral" or any similar law in any country of the world. Notwithstanding the foregoing, Vankrupt may require you to agree to the terms of a separate end user license agreement of any applicable Tool Software, which shall govern your use of the Tool Software and creation of Game Mods.
+
+In connection with any and all User Generated Content, you represent, warrant and covenant to Vankrupt that:
+
+(a) You own or control all rights in and to the User Generated Content and have the right to freely grant the license granted above to Vankrupt and services providers, and each of their and Vankrupt's respective licensees, successors, and assigns, and that no consents of any third parties are required to grant any rights or license granted above.
+
+(b) You have not created, posted, uploaded, publicly displayed, publicly performed or made available to any person, and shall not create, post, upload, publicly display, publicly perform or make available to any person, any User Generated Contents that:
+
+(i) contains any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable;
+
+(ii) promotes sexually explicit or pornographic material or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age;
+
+(iii) infringes any patent, trademark, trade secret, copyright, or other intellectual property or other rights of any other person;
+
+(iv) violates the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable law or that otherwise may be in conflict with this Agreement;
+
+(v) promotes any illegal activity, or advocate, promote, or assist any unlawful act;
+
+(vi) causes annoyance, inconvenience, or needless anxiety, or be likely to upset, embarrass, harass, alarm, or annoy any other person;
+
+(vii) impersonates any person, misrepresent your identity or affiliation with any person or organization, or are otherwise intended or likely to deceive any person;
+
+(viii) involves commercial activities or sales, such as contests, sweepstakes, and other sales promotions, barter, or advertising; and/or
+
+(ix) gives the impression that they emanate from or are endorsed by Vankrupt or any other person or entity, if this is not the case.
+
+You understand and acknowledge that you are responsible for any User Generated Content you submit, contribute or upload (whether in the past, present or future), and you, not Vankrupt, have full responsibility for such content, including its legality, reliability, accuracy, and appropriateness. You acknowledge and agree that Vankrupt is not responsible or liable to any third party for the content or accuracy of any User Generated Content posted by you or any other user of the Software. To that end, and without limiting any other paragraph in this Agreement, you hereby agree to defend, indemnify, and hold harmless Vankrupt, its related parties, advertisers and sponsors, licensors and service providers, and its and their respective directors, officers, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any and all demands, claims, proceedings, actions, judgments, damages, awards, losses, costs, expenses or fees (including reasonable attorneys' fees), and other liabilities arising out of or relating to your User Generated Content and any breach of your representations, warranties or agreements relating thereto.
+
+Monitoring and Enforcement
+
+Vankrupt shall have the right to:
+
+(a) Remove or refuse to post any User Generated Content for any or no reason in our sole discretion;
+
+(b) Take any action with respect to any User Generated Content that Vankrupt deems necessary or appropriate in our sole discretion, including if Vankrupt believes that such User Generated Content violates this Agreement, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Software or the public, or could create liability for Vankrupt;
+
+(c) Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Software; and/or
+
+(d) Terminate or suspend your access to all or part of the Software for any or no reason, including without limitation, any violation of this Agreement.
+
+Without limiting the foregoing, Vankrupt has the right to fully cooperate with any law enforcement authorities or court order directing Vankrupt to disclose the identity or other information of anyone posting any materials on or through the Software. 
+
+However, Vankrupt does not undertake to review all material before it is posted on the Software, and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, Vankrupt assumes no liability for any action or inaction regarding transmissions, communications, or content provided by any user or third party. Vankrupt has no liability or responsibility to anyone for performance or non-performance of the activities described in this section.
+
+7. DISCLAIMER OF WARRANTIES
+
+YOUR USE OF THE SOFTWARE, INCLUDING THE GAME, AND ANY CONTENT OR ITEMS OBTAINED THROUGH THE SOFTWARE IS AT YOUR OWN RISK. THE SOFTWARE, ITS CONTENT, AND ANY SOFTWARE OR ITEMS OBTAINED THROUGH THE SOFTWARE, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, AND VANKRUPT NOR ITS LICENSORS MAKES ANY WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE. ANY AND ALL OTHER EXPRESS OR IMPLIED WARRANTIES AND REPRESENTATIONS, STATUTORY OR OTHERWISE, ARE EXPRESSLY AND SPECIFICALLY DISCLAIMED, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT OR NON-MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY, CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, OR SYSTEM INTEGRATION, OR ANY WARRANTIES ARISING UNDER ANY STATUTE, COURSE OF DEALING, OR OTHER LEGAL REQUIREMENT. Without limiting the foregoing, neither Vankrupt nor anyone associated with Vankrupt represents or warrants that the Software, its content, or any software or items obtained through the Software will be complete, accurate, reliable, secure, available, error-free or uninterrupted, that defects will be corrected, that the Software or the server that makes it available are free of viruses or other harmful components or that the Software or any content or items obtained through the Software will otherwise meet your needs or expectations. 
+
+The foregoing does not affect any warranties which cannot be excluded or limited under the law of your jurisdiction, and if any to the extent that such local laws are held to apply to this Agreement or the Software, the foregoing shall be deemed modified to the minimum extent necessary to comply with the applicable requirements of law, while retaining to the maximum extent possible the effect, scope and economic benefit of the original warranty provided herein.
+You understand that Vankrupt cannot and do not guarantee or warrant the availability of the Internet, nor that files available for downloading from the Internet or the Software will be free of viruses or other destructive code. You are solely responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our Software for any reconstruction of any lost data. 
+
+8. EQUITABLE REMEDIES
+You hereby agree that if the terms of this Agreement are not specifically enforced, Vankrupt will be irreparably damaged, and therefore you agree that Vankrupt shall be entitled, without bond, other security, proof of damages, to appropriate equitable remedies with respect any of this Agreement, in addition to any other available remedies.
+9. INDEMNIFICATION
+
+You agree to defend, indemnify, and hold harmless Vankrupt, its related parties, advertisers and sponsors, licensors and service providers, and its and their respective directors, officers, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any and all demands, claims, proceedings, actions, judgments, damages, awards, losses, costs, expenses or fees (including reasonable attorneys' fees), and other liabilities arising out of or relating to your violation of this Agreement, and breach of your representations or warranties provided herein, or your use of the Software including, but not limited to, your User Generated Content, any use of the Software's content, services, and products, other than as expressly authorized in this Agreement, or your use of any information obtained from the Software.
+
+10. LINKS TO THIRD PARTIES AND ADVERTISING
+
+If Vankrupt includes links to other services provided by third parties in the Software, these links are provided for your convenience only. This includes links contained in advertisements, including banner advertisements and sponsored links. Notwithstanding the foregoing, you acknowledge that Vankrupt has no control over the content of third party sites or resources, and accepts no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third party sites linked to from the Software, you do so entirely at your own risk and subject to the terms and conditions of use and privacy policies for such third party services. For the avoidance of doubt, in no event will Vankrupt be liable to you or any other person for any links provided by any user of the Software.
+
+11. PROMOTIONAL ACTIVITIES
+
+If you register an account on the Software, as may be available to you, you agree that Vankrupt and its service providers may display your username, likeness/avatar, gameplay data and statistics, tournament records, and any other information that regarding your gaming activity, and you allow the Software to print, publish, broadcast, and use, worldwide, in any media and at any time, your name, picture, likeness, voice, and/or biographical information for promotional, marketing, or related purposes without compensation or consent.
+
+12. TERMINATION
+
+This Agreement and the licenses granted under this Agreement are effective until terminated. They shall terminate automatically without notice if you fail to comply with any provision of this Agreement. Upon termination you shall immediately cease using the Software, and destroy the Software, the documentation, and the other parts of the Software, and all copies of any parts thereof.
+13. MISCELLANEOUS; WAIVERS; GOVERNING LAW; ARBITRATION
+
+Class Action Waiver
+
+Subject to any applicable laws, you hereby waive the right to bring any controversy, claim, or dispute arising out of or relating in any way to your use of the Software or purchases through the Software as a class, consolidated, representative, collective, or private attorney general action, or to participate in a class, consolidated, representative, collective, or private attorney general action regarding any such claim brought by anyone else.
+
+Entire Agreement
+
+This Agreement including any and all other agreements, policies, terms and conditions incorporated herein by reference constitute the sole and entire agreement between you and Vankrupt with respect to the Software and the Game and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Software and the Game.
+
+Governing Law and Arbitration
+
+Use of the Software, including, without limitation, any purchases made through the Software, and any controversy, claim, or dispute arising out of or relating in any way to your use of the Software, this Agreement, and/or products purchased through the software shall be governed, construed and enforced under the laws of the Province of British Columbia, Canada and the federal laws of Canada as applicable therein, without regard to conflicts of law principles. Any controversy, claim or dispute arising out of or relating to this Agreement or any breach thereof shall be settled by arbitration in accordance with the rules of the Arbitration Act (British Columbia) and judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction thereof. You and Vankrupt shall mutually select a neutral arbitrator; or if you and Vankrupt cannot agree on such arbitrator, each party shall select one neutral arbitrator, and those two arbitrators shall then select a third neutral arbitrator to solely preside over the proceedings. Unless the parties agree otherwise, the neutral arbitrator will be a former or retired judge of justice of any British Columbia provincial or federal court with experience in matters involving the video game industry. You and Vankrupt are to share costs and the arbitrator's costs equally, and shall remain responsible for each of their own attorneys' fees. The arbitration shall be a confidential proceeding, closed to the general public. The arbitrator shall issue a written opinion stating the essential findings and conclusions upon which the arbitrator's award is based. 
+
+Waiver and Severability
+
+No waiver by Vankrupt of any term or condition set forth in this Agreement shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Vankrupt to assert a right or provision under this Agreement shall not constitute a waiver of such right or provision. Except as otherwise expressly provided herein, if any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of this Agreement will continue in full force and effect.
+
+Additional Terms & Conditions
+
+Vankrupt reserves the right to further provide or require additional terms, conditions or policies which may apply to specific portions, services, or features of the Software including, without limitation, certain in-Game policies. All such additional terms, conditions and policies are hereby incorporated by this reference into this Agreement, including without limitation any privacy policies as established by Vankrupt from time to time. In the event of any conflict between the additional terms and conditions and this Agreement, the additional terms and conditions shall prevail. 
+
+Your Comments and Concerns
+
+All feedback, comments, requests for technical support and other communications relating to the Software including the Game should be directed to: contact@vankrupt.com.
+

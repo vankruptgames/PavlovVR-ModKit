@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.1",
+	"FriendlyName": "CustomMapTools",
+	"Description": "Pavlov VR's custom map tool for workshop map authoring",
+	"Category": "Other",
+	"CreatedBy": "davevillz",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PavlovProxy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CustomMapTools",
+			"Type": "Editor",
+			"LoadingPhase":  "PostEngineInit"
+		}
+	]
+}
