@@ -3760,3 +3760,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.03-14.44.00:970][414]LogSavePackage: Moving 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Saved/definitionE22F778D42152B17BD5A4383B997A1CC.tmp' to 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Content/CustomMaps/SVR_firstMap1/definition.uasset'
 [2020.10.03-14.44.00:986][415]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2020.10.03-14.44.00:986][415]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.10.03-14.44.16:998][373]LogAssetEditorManager: Opening Asset editor for Pavlov_Map /Game/CustomMaps/SVR_firstMap1/definition.definition
+[2020.10.03-14.44.48:307][245]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.321 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.10.03-14.45.39:535][317]LogSavePackage: Moving 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Saved/definition79D20D22475708854D283082EC4C983C.tmp' to 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Content/CustomMaps/SVR_firstMap1/definition.uasset'
+[2020.10.03-14.45.45:271][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.03-14.45.45:355][642]LogSlate: Window 'definition - Generic Asset Editor' being destroyed
+[2020.10.03-14.45.45:360][642]LogSlate: Window 'definition - Generic Asset Editor' being destroyed
+[2020.10.03-14.45.53:677][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.03-14.45.53:953][155]LogActorFactory: Actor Factory created Cube
+[2020.10.03-14.45.53:957][155]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.10.03-14.45.53:991][156]LogShaderCompilers: Display: Shaders left to compile 57
+[2020.10.03-14.45.53:991][156]LogShaderCompilers: Display: Shaders left to compile 47
+[2020.10.03-14.45.53:991][156]LogShaderCompilers: Display: Shaders left to compile 37
+[2020.10.03-14.45.53:991][156]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.10.03-14.45.53:991][156]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.10.03-14.45.53:991][156]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.10.03-14.45.56:703][318]LogActorFactory: Actor Factory created Cube
+[2020.10.03-14.46.08:688][ 32]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.10.03-14.46.08:750][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.46.09:421][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.46.12:775][273]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.10.03-14.46.12:790][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.46.13:449][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.46.19:732][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.46.19:803][694]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.46.27:924][180]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.46.31:762][410]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.46.45:867][256]Cmd: EDIT COPY
+[2020.10.03-14.46.46:786][311]Cmd: EDIT PASTE
+[2020.10.03-14.46.52:956][680]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.47.13:026][882]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.47.18:163][190]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.47.24:332][560]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.47.24:359][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.47.24:884][591]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.47.25:388][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.47.33:913][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.47.33:983][134]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.47.36:502][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.47.37:221][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.47.55:453][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.47.56:007][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.48.04:108][934]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.48.05:461][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.48.05:558][ 18]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.48.23:299][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.48.24:186][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.48.26:988][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.48.27:040][302]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.48.46:003][438]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.49.17:081][302]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.49.17:093][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.49.17:651][336]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.49.18:039][359]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube)
+[2020.10.03-14.49.18:860][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.49.19:497][445]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.10.03-14.49.19:513][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.49.20:271][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.49.20:861][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.49.20:922][527]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.49.41:845][780]LogSlate: Took 0.019274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.03-14.50.08:982][408]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.50.36:650][ 67]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.10.03-14.50.44:247][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.03-14.51.09:055][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.03-14.51.09:138][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.03-14.51.09:154][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.51.09:154][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.03-14.51.09:154][ 12]LogHMD: Initializing OVRPlugin session
+[2020.10.03-14.51.11:569][ 12]PIE: New page: PIE session: CODZombieTiiiime (Oct 3, 2020, 6:51:11 AM)
+[2020.10.03-14.51.11:600][ 12]LogPlayLevel: Creating play world package: /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime
+[2020.10.03-14.51.11:602][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001897s)
+[2020.10.03-14.51.11:603][ 12]LogAIModule: Creating AISystem for world CODZombieTiiiime
+[2020.10.03-14.51.11:603][ 12]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.10.03-14.51.11:603][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime to /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime.CODZombieTiiiime (0.002854s)
+[2020.10.03-14.51.11:698][ 12]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.03-14.51.11:704][ 12]LogInit: FAudioDevice initialized.
+[2020.10.03-14.51.11:749][ 12]LogLoad: Game class is 'GameModeBase'
+[2020.10.03-14.51.11:775][ 12]LogWorld: Bringing World /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime.CODZombieTiiiime up for play (max tick rate 60) at 2020.10.03-10.51.11
+[2020.10.03-14.51.11:775][ 12]LogWorld: Bringing up level for play took: 0.000612
+[2020.10.03-14.51.11:838][ 12]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.10.03-14.51.11:855][ 12]PIE: Play in editor start time for /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime 3.419
+[2020.10.03-14.51.11:855][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.51.43:170][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.51.43:176][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-14.51.43:210][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.03-14.51.43:211][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.51.43:236][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-14.51.43:283][892]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.10.03-14.51.51:667][395]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.03-14.51.51:688][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.51.51:688][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.03-14.51.51:688][395]LogHMD: Initializing OVRPlugin session
+[2020.10.03-14.51.51:793][395]PIE: New page: PIE session: CODZombieTiiiime (Oct 3, 2020, 6:51:51 AM)
+[2020.10.03-14.51.51:793][395]LogPlayLevel: Creating play world package: /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime
+[2020.10.03-14.51.51:794][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001643s)
+[2020.10.03-14.51.51:795][395]LogAIModule: Creating AISystem for world CODZombieTiiiime
+[2020.10.03-14.51.51:795][395]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2020.10.03-14.51.51:795][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime to /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime.CODZombieTiiiime (0.002200s)
+[2020.10.03-14.51.51:840][395]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.03-14.51.51:846][395]LogInit: FAudioDevice initialized.
+[2020.10.03-14.51.51:875][395]LogLoad: Game class is 'GameModeBase'
+[2020.10.03-14.51.51:876][395]LogWorld: Bringing World /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime.CODZombieTiiiime up for play (max tick rate 60) at 2020.10.03-10.51.51
+[2020.10.03-14.51.51:877][395]LogWorld: Bringing up level for play took: 0.000766
+[2020.10.03-14.51.51:889][395]PIE: Play in editor start time for /Game/CustomMaps/SVR_firstMap1/UEDPIE_0_CODZombieTiiiime -0.547
+[2020.10.03-14.51.51:889][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.52.04:760][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.52.04:765][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-14.52.04:800][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.03-14.52.04:800][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel' has LevelScriptBlueprint '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime' with GeneratedClass '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime_C' with ClassGeneratedBy '/Game/CustomMaps/SVR_firstMap1/CODZombieTiiiime.CODZombieTiiiime:PersistentLevel.CODZombieTiiiime'
+[2020.10.03-14.52.04:823][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-14.52.04:870][169]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.10.03-14.52.09:104][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.52.24:040][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.52.26:208][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.52.29:475][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.52.29:558][647]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.52.56:460][260]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.52.57:492][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.53.00:020][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.53.02:737][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.53.02:804][638]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.53.27:143][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.03-14.53.33:904][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.03-14.53.36:031][627]Cmd: EDIT COPY
+[2020.10.03-14.53.36:897][679]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.53.37:514][715]Cmd: EDIT PASTE
+[2020.10.03-14.53.41:970][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.53.45:786][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.53.45:870][215]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.53.56:571][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.53.59:573][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.53.59:653][ 38]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2020.10.03-14.54.03:187][249]Cmd: EDIT COPY
+[2020.10.03-14.54.06:705][460]Cmd: EDIT PASTE
+[2020.10.03-14.54.18:287][154]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh1)
+[2020.10.03-14.54.18:299][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.54.25:335][576]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh1)
+[2020.10.03-14.54.25:436][582]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube2)
+[2020.10.03-14.54.26:225][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.54.26:292][632]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh1)
+[2020.10.03-14.54.46:262][829]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.54.47:918][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.54.55:046][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.54.55:131][358]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh1)
+[2020.10.03-14.54.59:765][635]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.55.00:766][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.10.03-14.55.00:830][696]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh1)
+[2020.10.03-14.55.02:214][778]Cmd: EDIT COPY
+[2020.10.03-14.55.03:849][876]Cmd: EDIT PASTE
+[2020.10.03-14.55.08:613][161]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.03-14.55.10:009][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.55.12:933][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.03-14.55.13:053][417]LogSavePackage: Moving 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Saved/CODZombieTiiiime63AE15AC412C70EE94B7ECAECB18B14E.tmp' to 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Content/CustomMaps/SVR_firstMap1/CODZombieTiiiime.umap'
+[2020.10.03-14.55.13:072][417]LogFileHelpers: Saving map 'CODZombieTiiiime' took 0.125
+[2020.10.03-14.55.13:090][417]LogSavePackage: Moving 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Saved/CODZombieTiiiime_BuiltData26DB78D74BBCB024F95DAB80C62CED79.tmp' to 'C:/Users/SeanD/Desktop/Pavlov My Maps/firstMap/PavlovVR-ModKit/Content/CustomMaps/SVR_firstMap1/CODZombieTiiiime_BuiltData.uasset'
