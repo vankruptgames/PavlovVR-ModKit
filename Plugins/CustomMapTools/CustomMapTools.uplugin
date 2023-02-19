@@ -22,7 +22,22 @@
 		{
 			"Name": "CustomMapTools",
 			"Type": "Editor",
-			"LoadingPhase":  "PostEngineInit"
+			"LoadingPhase": "PostEngineInit"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Modio",
+			"Enabled": true
+		},
+		{
+			"Name": "PluginUtils",
+			"Enabled": true
+		}
+		
 	]
 }

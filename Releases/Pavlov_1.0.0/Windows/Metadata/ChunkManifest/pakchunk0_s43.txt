@@ -1,0 +1,2 @@
+C:\UE\Pavlov\Saved\Cooked\Windows\Pavlov\Content\Maps\tank_stalingrad\HLOD\tank_stalingrad_01_Geo_0_HLOD
+C:\UE\Pavlov\Saved\Cooked\Windows\Pavlov\Content\Maps\tank_stalingrad\HLOD\tank_stalingrad_01_Geo_1_HLOD

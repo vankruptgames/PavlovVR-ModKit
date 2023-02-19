@@ -1,0 +1,8 @@
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\HLOD\tank_stalingrad_01_Geo_0_HLOD
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\HLOD\tank_stalingrad_01_Geo_1_HLOD
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\HLOD\tank_stalingrad_01_Night_0_HLOD
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\HLOD\tank_stalingrad_01_Night_1_HLOD
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Geo_Night
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Lighting_Night
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Lighting_Night_BuiltData
+C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Night

@@ -1,0 +1,1 @@
+{"EncryptionKey":{"Name":null,"Guid":null,"Key":null},"SigningKey":null,"bEnablePakSigning":false,"bEnablePakIndexEncryption":false,"bEnablePakIniEncryption":false,"bEnablePakUAssetEncryption":false,"bEnablePakFullAssetEncryption":false,"bDataCryptoRequired":true,"PakEncryptionRequired":true,"PakSigningRequired":false,"SecondaryEncryptionKeys":[]}

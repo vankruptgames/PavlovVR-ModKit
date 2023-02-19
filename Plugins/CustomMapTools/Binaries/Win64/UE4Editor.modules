@@ -1,8 +1,0 @@
-{
-	"BuildId": "4541578",
-	"Modules": 
-	{
-		"CustomMapTools": "UE4Editor-CustomMapTools.dll",
-		"PavlovProxy": "UE4Editor-PavlovProxy.dll"
-	}
-}

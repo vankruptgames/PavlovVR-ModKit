@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"CustomMapTools": "UnrealEditor-CustomMapTools.dll",
+		"PavlovProxy": "UnrealEditor-PavlovProxy.dll"
+	}
+}
