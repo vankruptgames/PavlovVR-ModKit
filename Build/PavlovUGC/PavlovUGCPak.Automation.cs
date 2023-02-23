@@ -118,6 +118,17 @@ namespace AutomationTool
 				}
 			}
 
+			string ModioUploader = ParseParamValue("ModioUploader");
+			bool bModioUploader = false;
+
+			if (ModioUploader != null)
+			{
+				if (ModioUploader == "True")
+				{
+					bModioUploader = true;
+				}
+			}
+
 			LogInformation(ProjectFileName);
 
 			string TargetPlatform = ParseParamValue("Platform");
@@ -231,7 +242,7 @@ namespace AutomationTool
 			else
 			{
 				//we need to change to our specified platform so shack linux builds dont conflict w/ pc linux builds
-				ModPath = Path.Combine(Params.StageDirectoryParam, PlatformDir, PluginFile.GetFileNameWithoutAnyExtensions());
+				ModPath = Path.Combine(Params.StageDirectoryParam, PlatformDir, PluginFile.GetFileNameWithoutAnyExtensions());				
 				CommandUtils.DeleteDirectory(ModPath);
 
 				string ModPlatformDir = Path.Combine(Params.StageDirectoryParam, PlatformDir);
@@ -252,7 +263,7 @@ namespace AutomationTool
 				System.IO.File.Copy(MetaDataPath, MetaDataCopyToPath);
 			}
 
-			if (!bStage)
+			if (!bStage && !bModioUploader)
 			{
 				System.IO.Compression.ZipFile.CreateFromDirectory(ModPath, ModPath + ".zip");
 			}

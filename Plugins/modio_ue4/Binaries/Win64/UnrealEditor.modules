@@ -2,6 +2,7 @@
 	"BuildId": "23058290",
 	"Modules": 
 	{
-		"Modio": "UnrealEditor-Modio.dll"
+		"Modio": "UnrealEditor-Modio.dll",
+		"ModioEx": "UnrealEditor-ModioEx.dll"
 	}
 }

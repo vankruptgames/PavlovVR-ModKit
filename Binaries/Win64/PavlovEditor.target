@@ -24572,6 +24572,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/UGC2810967/UGC2810967.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/VRFramework/VRFramework.uplugin",
 			"Type": "UFS"
 		},
