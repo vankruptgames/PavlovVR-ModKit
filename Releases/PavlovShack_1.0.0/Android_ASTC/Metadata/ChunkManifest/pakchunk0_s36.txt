@@ -1,5 +1,0 @@
-C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Night_BuiltData
-C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Scripting_Night
-C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\Stalingrad_Night\tank_stalingrad_01_Sound_Night
-C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\tank_stalingrad_01
-C:\UE\Pavlov\Saved\Cooked\Android_ASTC\Pavlov\Content\Maps\tank_stalingrad\tank_stalingrad_01_Blockout

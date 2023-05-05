@@ -2862,6 +2862,14 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AnimationBudgetAllocator/Binaries/Win64/UnrealEditor-AnimationBudgetAllocator.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AnimationBudgetAllocator/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/ApexDestruction/Binaries/Win64/UnrealEditor-ApexDestruction.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -24333,6 +24341,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/AndroidPermission/AndroidPermission.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/AnimationBudgetAllocator/AnimationBudgetAllocator.uplugin",
 			"Type": "UFS"
 		},
 		{
