@@ -24500,10 +24500,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/CustomMapTools/ThirdParty/sdk/redistributable_bin/win64/steam_api64.dll",
-			"Type": "NonUFS"
-		},
-		{
 			"Path": "$(ProjectDir)/Plugins/JsonUtils/JsonUtils.uplugin",
 			"Type": "UFS"
 		},
